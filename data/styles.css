@@ -22,6 +22,8 @@
 }
 .placeholder {
 }
+.button {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -66,6 +68,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._表单提示 {
   color:#999999;
 }
@@ -76,6 +80,9 @@
 .ellipse {
 }
 .text_field {
+  font-family:'Comic Sans MS Normal', 'Comic Sans MS';
+  font-weight:400;
+  font-style:normal;
   color:#000000;
   text-align:left;
 }
@@ -95,9 +102,12 @@
   text-align:left;
 }
 .radio_button {
+  color:#7F7F7F;
   text-align:left;
 }
 .table_cell {
+}
+.menu_item {
 }
 ._连接 {
 }
